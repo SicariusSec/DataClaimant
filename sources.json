@@ -1,7 +1,8 @@
 {
    "claimant_sources": {
-     "version" : "Versão : 0.5.32v",
-     "version_type" : "Modelo : Dark Admin",
+     "version" :"| Versão | Model      |",
+     "version_lines": "|--------|------------|",
+     "version_type" : "| 0.5.3v | Dark Admin |",
      "credits" : "Created by : Sic@rius Sec"
   },
    "claimant_memes": [
